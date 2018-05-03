@@ -1,0 +1,11 @@
+NUMEROS BINARIOS 
+Alfonso Heredia
+
+
+1
+1
+0
+1
+0
+1
+resultado= 
